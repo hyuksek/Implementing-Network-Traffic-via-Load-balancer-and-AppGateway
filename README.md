@@ -1,0 +1,15 @@
+# Implementing-Network-Traffic-via-Load-balancer-and-AppGateway
+Implementing Network Traffic via Load balancer and AppGateway
+![image](https://user-images.githubusercontent.com/125759866/226082323-a05081c3-2166-46df-83fd-7a13144f3278.png)
+![image](https://user-images.githubusercontent.com/125759866/226082336-1747146c-866b-4eb7-97b8-d9a36e147f8c.png)
+![image](https://user-images.githubusercontent.com/125759866/226082349-80cb7992-c7f8-4240-b61c-f9f99e7946a5.png)
+![image](https://user-images.githubusercontent.com/125759866/226082358-7632cfb5-9025-4f24-b944-a0101e8b61dd.png)
+![image](https://user-images.githubusercontent.com/125759866/226082360-6f13409c-30ff-4efb-b108-94a6e26c4b20.png)
+![image](https://user-images.githubusercontent.com/125759866/226082365-56087cc0-2950-4b3e-9007-d462e7275f78.png)
+![image](https://user-images.githubusercontent.com/125759866/226082371-29ea6989-7f65-416e-88cb-28a08f6d8177.png)
+![image](https://user-images.githubusercontent.com/125759866/226082377-6c2513a3-f21f-446d-aa18-8096d9ed98a0.png)
+![image](https://user-images.githubusercontent.com/125759866/226082381-a92d45a0-7546-46cb-bd7f-5bfc125b6d5a.png)
+![image](https://user-images.githubusercontent.com/125759866/226082392-c7192b25-3bcf-43df-9351-e881cb3dd010.png)
+![image](https://user-images.githubusercontent.com/125759866/226082398-56cd91df-a197-4ca2-8597-0af3ba6c16ac.png)
+![image](https://user-images.githubusercontent.com/125759866/226082402-a4faf617-a2d6-4910-ab72-52e1ff663e70.png)
+![image](https://user-images.githubusercontent.com/125759866/226082409-b1d36224-34ec-48d5-a6bc-2d692ad412f0.png)
